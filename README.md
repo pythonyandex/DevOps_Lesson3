@@ -73,10 +73,12 @@
 Предоставьте скриншоты  действий .
 
 ## Решение 6
+Скриншот Dive Terraform Bin:![Dive Terraform Bin](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/DIVE_Bin_Terraform.png)
 
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
+Скриншот Docker CP:![Docker CP](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/terraform_docker_cp.png)
 
 ## Решение 6.1
 
