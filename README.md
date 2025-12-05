@@ -57,9 +57,9 @@
 6. Повторите SQL-запрос на сервере и приложите скриншот и ссылку на fork.
 
 ## Решение 4
-Скриншот запроса:[
+Скриншот запроса:![Yandex Cloud Database Screen](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/Yandex_Cloud_Screen.png)
 
-Ссылка на fork:
+Ссылка на fork:[My_Fork](https://github.com/pythonyandex/shvirtd-test.git)
 
 
 ## Задача 5 (*)
@@ -72,9 +72,14 @@
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
+## Решение 6
+
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
+
+## Решение 6.1
+
 
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
