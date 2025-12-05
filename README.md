@@ -46,7 +46,7 @@
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 ## Решение 3
-Скриншот запроса:
+Скриншот запроса:![Database_Screen](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/les3_task3_database_screen.png)
 
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
