@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 5. «Практическое применение Docker»
+<img width="3467" height="712" alt="изображение" src="https://github.com/user-attachments/assets/637a76db-af89-4eb3-9475-218aba0b525f" /># Домашнее задание к занятию 5. «Практическое применение Docker»
 
 
 
@@ -74,6 +74,8 @@
 
 ## Решение 6
 Скриншот Dive Terraform Bin:![Dive Terraform Bin](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/DIVE_Bin_Terraform.png)
+После того, как узнали на каком layer находится файл, сохраняем образ в tar и копируем с необходимо уровня:
+![Extract_Terraform](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/extract_Terraform.png)
 
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
