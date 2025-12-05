@@ -15,7 +15,7 @@
 4. (Необязательная часть, *) Изучите код приложения и добавьте управление названием таблицы через ENV переменную.
 
 ## Решение 1
-
+[Ссылка на Dockerfile.python для сборки](https://github.com/pythonyandex/DevOps_Lesson3/blob/main/Dockerfile.python)
 
 
 ---
