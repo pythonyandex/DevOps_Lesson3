@@ -1,4 +1,3 @@
-<img width="3467" height="712" alt="изображение" src="https://github.com/user-attachments/assets/637a76db-af89-4eb3-9475-218aba0b525f" /># Домашнее задание к занятию 5. «Практическое применение Docker»
 
 
 
